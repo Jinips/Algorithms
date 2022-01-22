@@ -25,5 +25,5 @@ graph = [
 # 각 노드가 방문됐는지 아닌지 확인하는 리스트
 visited = [False] * 9
 
-# dfs 실행
+# dfs 함수 실행
 dfs(graph, 1, visited)
